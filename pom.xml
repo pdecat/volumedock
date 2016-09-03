@@ -32,9 +32,10 @@
     </parent>
 
     <scm>
-        <connection>scm:svn:http://dear2dear.googlecode.com/svn/trunk/vd/VolumeDock</connection>
-        <developerConnection>scm:svn:https://dear2dear.googlecode.com/svn/trunk/vd/VolumeDock</developerConnection>
-        <url>http://code.google.com/p/dear2dear/source/browse/#svn%2Ftrunk%2Fvd%2FVolumeDock</url>
+        <connection>scm:git:https://github.com/pdecat/volumedock</connection>
+        <developerConnection>scm:git:git@github.com:pdecat/volumedock</developerConnection>
+        <url>https://github.com/pdecat/volumedock</url>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
